@@ -1,0 +1,7 @@
+// First word is the command word. Second word is the YT or SC link or ID. One per line.
+
+
+stfu https://www.youtube.com/watch?v=IJE1I78kcNo
+ha https://www.youtube.com/watch?v=YaG5SAw1n0c
+deeznuts https://www.youtube.com/watch?v=5LlQNty_C8s
+smoke https://soundcloud.com/sirius7/smoke-weed-everyday-rasmus
